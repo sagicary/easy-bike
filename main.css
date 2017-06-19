@@ -19,6 +19,6 @@ button{
 	font-size: 15px;
 	display: block;
 }
-button:hover, button:focus{
+button:hover,button:focus{
 	outline: 0;
 }
